@@ -1,0 +1,24 @@
+{
+  "name": "@msteams-sidecars/yarn-auth",
+  "version": "1.0.0",
+  "description": "A simple auth script for Microsoft Teams sidecars yarn installation",
+  "scripts": {
+    "dev": "webpack --watch --mode development",
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.4.12",
+    "commander": "^12.0.0",
+    "execa": "^8.0.1",
+    "lodash-es": "^4.17.21",
+    "node-fetch": "^3.3.2",
+    "pino": "^8.16.2",
+    "pino-pretty": "^10.2.3",
+    "swc-loader": "^0.2.6",
+    "typescript": "^5.4.4",
+    "ts-node": "^10.9.2",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4",
+    "yaml": "^2.4.1"
+  }
+}
