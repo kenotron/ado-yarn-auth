@@ -47,7 +47,7 @@ async function action({
 
     // Object.assign(authObject, {
     //   npmRegistries: {
-    //     [teamsNpmRegistry]: {
+    //     [sdf]: {
     //       npmAuthIdent,
     //       npmAlwaysAuth: true,
     //     },

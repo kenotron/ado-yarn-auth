@@ -1,7 +1,7 @@
 {
-  "name": "@msteams-sidecars/yarn-auth",
+  "name": "ado-yarn-auth",
   "version": "1.0.0",
-  "description": "A simple auth script for Microsoft Teams sidecars yarn installation",
+  "description": "A simple auth script for Microsoft Azure DevOps using Yarn 2+",
   "scripts": {
     "dev": "webpack --watch --mode development",
     "build": "webpack --mode production"
